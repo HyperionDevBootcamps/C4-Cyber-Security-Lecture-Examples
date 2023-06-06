@@ -1,0 +1,40 @@
+# CS LectureRecordings
+## Ordered from oldest to newest
+
+1. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=19ae39f0-5f3d-4911-8e40-8dd62cc23725
+2. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=a3243957-49a4-4fb1-b876-723e02c102c0
+3. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=14ada8f0-2b2f-40fc-ae61-1b092ef3f0b5
+4. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=73be3768-0247-4ab8-a1bf-6365caf3a061
+5. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=f1024578-08bc-4474-8375-03059a0ec46c
+6. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=f33a2e40-d8c0-4a08-898a-b9f0eecc6063
+7. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=11f28d15-8f76-43cd-8ced-1e27c3dc335a
+8. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=6a7b8fd7-f564-419c-9357-c226884096d4
+9. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=b765a8a2-aae8-4dcd-8183-9279ffbd865c
+10. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=a667837e-a9b7-46c9-be46-7bda6c3583a3
+11. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=f558e34d-8724-4487-8138-f4ea45d7a670
+12. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=dd17e4bc-d9c1-4b5c-a3d2-81904b5b9478
+13. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=e8254732-e67f-4c5d-8c3f-da7584ca2532
+14. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=4b6b27fe-130f-43b2-b823-a0bdd1ee3d1b
+15. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=532e1138-19a6-45ef-aacf-2e837e934e41
+16. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=996d3b7f-ec0a-4a4a-9952-d0beef878e0c
+17. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=52f9cc8b-feb4-4b0e-9605-afaa7923d044
+18. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=7f91dfd3-4efe-4310-9fb0-78f8db9c5384
+19. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=69c798ca-b3e2-4322-973e-86596ac465bb
+20. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=14f8b62c-6ed8-4b4e-9283-d860c88d7c79
+21. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=625f420a-11bf-4942-b036-04a958255f83
+22. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=36e62007-370a-4dc1-84dd-0ed444414ad6
+23. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=7d49a214-e6f7-4a25-8d80-6d9ad024bc3b
+24. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=0979c2dd-c5f1-49e0-91d4-b7f9653ff885
+25. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=de8a4583-3917-4696-a1d6-097a2c2abdf1
+26. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=a6eb3b08-c68f-495c-810b-9522dc0a0f1b
+27. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=b2ef0107-0791-4f09-8a67-00f96d535d8e
+28. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=7ce86685-ff6f-4d8e-af00-37c73e55bf0a
+29. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=4c84efde-1ac1-4a49-aad6-4401d77fab6a
+30. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=c67339e7-5507-4d60-8a54-00dc25eeca7e
+31. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=0ebdcfcf-50c9-4518-a384-a41fc31a8cae
+32. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=fef93f33-e7e8-49f2-aad9-ddfcd98c7e78
+33. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=2ff20bfc-3294-4630-9fd2-aea09bc32110
+34. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=36e11449-0897-48d5-8180-b3d55dc28c78
+35. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=41bbaacf-001b-44fb-abbc-1fca2db256ff
+36. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=89c6b50f-517d-4e42-a35f-0b3c1debca81
+37. https://app.livestorm.co/p/57ac2714-56c4-49c4-914d-e8ed3a39f21e/live?s=602f098b-2c5a-4aca-aafb-21b2befd2f6f
