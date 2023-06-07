@@ -1,0 +1,3 @@
+[submodule "Lecture-Slides/Lecture-Slides/CyberSecurity-Lecture-Slides"]
+	path = Lecture-Slides/Lecture-Slides/CyberSecurity-Lecture-Slides
+	url = https://github.com/HyperionDevBootcamps/CyberSecurity-Lecture-Slides
