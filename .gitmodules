@@ -1,3 +1,6 @@
 [submodule "Lecture-Slides/Lecture-Slides/CyberSecurity-Lecture-Slides"]
 	path = Lecture-Slides/Lecture-Slides/CyberSecurity-Lecture-Slides
 	url = https://github.com/HyperionDevBootcamps/CyberSecurity-Lecture-Slides
+[submodule "Additional-External-Resources/Lecture-Slides/Additional-External-Resources"]
+	path = Additional-External-Resources/Lecture-Slides/Additional-External-Resources
+	url = https://github.com/HyperionDevBootcamps/Cyber-External-Resources
