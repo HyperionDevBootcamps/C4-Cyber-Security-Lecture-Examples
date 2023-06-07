@@ -7,3 +7,6 @@
 [submodule "Additional-External-Resources/Additional-External-Resources"]
 	path = Additional-External-Resources/Additional-External-Resources
 	url = https://github.com/HyperionDevBootcamps/Cyber-External-Resources
+[submodule "Digital-Ocean/Digital-Ocean"]
+	path = Digital-Ocean/Digital-Ocean
+	url = https://github.com/HyperionDevBootcamps/Cyber-Kali-with-Digital-Ocean
