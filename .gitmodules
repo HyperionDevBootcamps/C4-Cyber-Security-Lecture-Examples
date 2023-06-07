@@ -4,3 +4,6 @@
 [submodule "Additional-External-Resources/Lecture-Slides/Additional-External-Resources"]
 	path = Additional-External-Resources/Lecture-Slides/Additional-External-Resources
 	url = https://github.com/HyperionDevBootcamps/Cyber-External-Resources
+[submodule "Additional-External-Resources/Additional-External-Resources"]
+	path = Additional-External-Resources/Additional-External-Resources
+	url = https://github.com/HyperionDevBootcamps/Cyber-External-Resources
