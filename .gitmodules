@@ -10,3 +10,6 @@
 [submodule "Digital-Ocean/Digital-Ocean"]
 	path = Digital-Ocean/Digital-Ocean
 	url = https://github.com/HyperionDevBootcamps/Cyber-Kali-with-Digital-Ocean
+[submodule "Takehome-Files/Takehome-Files"]
+	path = Takehome-Files/Takehome-Files
+	url = https://github.com/HyperionDevBootcamps/CYBER-WORKSHOP-TAKEHOME
