@@ -14,3 +14,10 @@
 
   ### [4. Takehome-Files](https://github.com/HyperionDevBootcamps/C4-Cyber-Security-Lecture-Examples/tree/main/Takehome-Files)
   * Directory containing the files/scripts shared by @LianoHyperion for practice on a few of the lecture/workshop topics.
+
+### [5.Lecture Recordings] 
+* Directory containing the links to the past lecture recordings. 
+
+### [6. Workshop Recordings] 
+* Directory containing the links to all the workshop recordings. 
+
